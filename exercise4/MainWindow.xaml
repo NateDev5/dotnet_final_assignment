@@ -1,0 +1,22 @@
+﻿<Window x:Class="exercise4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:exercise4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox>
+            <Label>Foreground Color:</Label>
+            <RadioButton GroupName="fore_color">Red</RadioButton>
+            <RadioButton GroupName="fore_color">Blue</RadioButton>
+            <RadioButton GroupName="fore_color">Green</RadioButton>
+            
+            <Label>Background Color:</Label>
+            <RadioButton GroupName="back_color">Red</RadioButton>
+            <RadioButton GroupName="back_color">Blue</RadioButton>
+            <RadioButton GroupName="back_color">Green</RadioButton>
+        </ListBox>
+    </Grid>
+</Window>

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natha\\OneDrive\\Computer Science\\Semester3\\dtonet\\final_assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA6D250-43CE-4390-85AC-265F3EC614BF}|exercise4\\exercise4.csproj|c:\\users\\natha\\onedrive\\computer science\\semester3\\dtonet\\final_assignment\\exercise4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7BA6D250-43CE-4390-85AC-265F3EC614BF}|exercise4\\exercise4.csproj|solutionrelative:exercise4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Computer Science\\Semester3\\dtonet\\final_assignment\\exercise4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "exercise4\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Computer Science\\Semester3\\dtonet\\final_assignment\\exercise4\\MainWindow.xaml",
+              "RelativeToolTip": "exercise4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-28T19:31:33.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

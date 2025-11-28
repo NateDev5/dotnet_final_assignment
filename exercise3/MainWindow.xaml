@@ -1,0 +1,17 @@
+﻿<Window x:Class="exercise3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:exercise3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="200">
+    <Grid>
+        <ListBox HorizontalAlignment="Center" VerticalAlignment="Center">
+            <CheckBox IsThreeState="True" Name="main_check" Checked="main_check_Checked" Unchecked="main_check_Unchecked" Indeterminate="main_check_Indeterminate">Engine Off</CheckBox>
+            <CheckBox IsEnabled="False" Name="check_audio">Enable Audio</CheckBox>
+            <CheckBox IsEnabled="False" Name="check_wipers">Enable Wipers</CheckBox>
+            <CheckBox IsEnabled="False" Name="check_ac">Enable AC</CheckBox>
+        </ListBox>
+    </Grid>
+</Window>
